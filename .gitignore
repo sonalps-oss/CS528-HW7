@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.DS_Store
+
+# Input datasets
+local_data/
+cloud_sample/
+test_data/
+
+# Logs
+*.log
+
+# Temporary test outputs
+test_results*/
